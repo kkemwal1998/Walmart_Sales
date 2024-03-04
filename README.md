@@ -1,4 +1,5 @@
 Project Description:-
+(Important Note: It is advised that the notebook file should be downloaded as it cannot be viewed on GitHub due to its size.)
 
 A) Organisation Name: Walmart
 
@@ -45,5 +46,6 @@ I) Impact:
      2) Decreasing Mean Squared Error by 14%.
 
      3) Decreasing Mean Absolute Error by 21%.
-     
+
+
      
